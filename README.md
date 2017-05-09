@@ -1,7 +1,7 @@
 ## University LMS
 
 This is a simple online university learning management system. I created it in 2016(May - August).
-In this project i did not use templates (header and footer). Mahor disadvantage!!! But i will re-create it wit Laravel later.
+In this project I did not use templating (header.php and footer.php). Major disadvantage!!! But I will re-create it with Laravel Framework later.
 
 ## It makes use of:
 	-PHP
@@ -10,7 +10,7 @@ In this project i did not use templates (header and footer). Mahor disadvantage!
 
 This system is an improved implementation of learning management system, it is simple to use for both lecturers and students. The scope of the proposed system covers the following.
 	-Internet-based access: All  users  who  have  internet  facility  can  access  the  system  wherever  and whenever they wish.
-	-Mobile app to login and enable participating in the forum easily using android platform.
+	-HTML 5 mobile app to login and enable participating in the forum easily using android platform.
 	-Document management: System allows uploading and downloading of documents (pdfs, word documents, ppt).
 	-Media management: System allows uploading and downloading of presentations, videos, voice recordings and pdf files.
 	-Forums for students to chat and clarify taught issues.
@@ -29,4 +29,4 @@ This system is an improved implementation of learning management system, it is s
 	-Import the sql file "university_lms.sql"
 
 ## License
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+The project is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
