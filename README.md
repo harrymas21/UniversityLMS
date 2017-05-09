@@ -8,7 +8,8 @@ In this project I did not use templating (header.php and footer.php). Major disa
 	-My SQL
 	-Javascript
 
-This system is an improved implementation of learning management system, it is simple to use for both lecturers and students. The scope of the proposed system covers the following:
+This system is an improved implementation of learning management system, it is simple to use for both lecturers and students.
+## The scope of this system covers the following:
 	-Internet-based access: All  users  who  have  internet  facility  can  access  the  system  wherever  and whenever they wish.
 	-HTML 5 mobile app to login and enable participating in the forum easily using android platform.
 	-Document management: System allows uploading and downloading of documents (pdfs, word documents, ppt).
@@ -16,11 +17,12 @@ This system is an improved implementation of learning management system, it is s
 	-Forums for students to chat and clarify taught issues.
 	-Online quizzes and skill competitions to collect points for badge and leader-board system.
 	-Dashboard displaying students from high skilled to least skilled based on previous points and skills undertaken.
-	-Statistics using libchart
+	-Statistics(CAT,Quiz,Course) using libchart
+	-SMS system to notify students whenever any material is posted in the document repository.
 
 ## Libraries used include:
 	-Africa's Talking Bulky SMS API
-	-FPDF for pdf generation
+	-FPDF library for pdf generation
 	-LIBCHART library for graph generation.
 	
 ## To use the system:
